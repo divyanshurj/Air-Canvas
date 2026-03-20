@@ -1,5 +1,4 @@
 # Air-Canvas
-# Air Canvas 🎨✨
 
 A real-time computer vision application that allows users to draw on a digital canvas simply by moving their hands in the air. 
 
